@@ -1,9 +1,6 @@
 #
 # Makefile for SPME_NlogN
 #
-# Byoungseon Jeon
-# Dept. Applied Science, UC.Davis
-# July 31. 2005
 #
 # suffix definition for compiling
 .SUFFIXES: .o .f90
