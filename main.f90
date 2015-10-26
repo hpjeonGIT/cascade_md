@@ -1,10 +1,5 @@
 !
 ! CASCADE simulation code
-! September 4 2009
-! Jeon, Byoungseon
-! Department of Applied Science
-! University of California, Davis
-!
 ! Base code is the TCP analysis code from NAGATO code
 ! UO2 potential and ZBL components are implemented
 !
